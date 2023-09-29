@@ -1,3 +1,4 @@
+
 // Array of words with their corresponding hints
 
 let words = [
